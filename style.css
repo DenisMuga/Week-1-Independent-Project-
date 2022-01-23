@@ -1,0 +1,28 @@
+/* /* body header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    font-size: 20px;
+    text-align: right;
+    display: inline;
+    word-spacing: 2em;
+  } 
+  h4 img{
+    position: absolute;
+    top: 60px;
+    right: 0px;
+    max-width: 80%;
+    height: 60%;
+    background-color: orange;
+  }
+  #mainMenu li{
+    display: inline-block;
+  }
+  #Caption{
+    margin-top: 15%;
+  }
+  #OtherImages{
+    display: inline-block;
+    margin-top: 17%;
+   } */
+ 
+ 
