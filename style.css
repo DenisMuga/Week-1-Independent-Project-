@@ -129,8 +129,13 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   width: 100%;
   justify-content: space-between;
 }
-.MobileSection{
-  background-color: gold;
+.MobileSection img{
+  /* display: block; */
+  /* margin-right: 100%; */
+  width: 150%;
+  /* justify-content: space-between; */
+  float: left;
+
 }
 #Contact{
   text-align: center;
@@ -145,8 +150,31 @@ text-align: right;
 #simu{
 
   display: flex;
-  background-color: gold;
+  background-color: rgb(255, 190, 70);
   width: 100%;
-  justify-content: space-between;
+  justify-content: space-evenly;
+  height: 80vh;
+  /* padding: 10%; */
 
 }
+#simu h1{
+  font-size: 50px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#simu button {
+  color: black;
+  justify-content: ;
+
+}
+.ph img {
+  display: block;
+  margin-left: 150%;
+  /* margin-right: 100%; */
+  width: 150%;
+  float: right;
+
+}
+ #icons {
+  text-align: center;
+  word-spacing: 10px;
+ }
