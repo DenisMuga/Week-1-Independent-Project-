@@ -181,5 +181,6 @@ text-align: right;
  }
  #Newsletter button{
    background-color: goldenrod;
+   border: 2px strong black;
 
  }
