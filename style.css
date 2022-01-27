@@ -163,7 +163,6 @@ text-align: right;
 }
 #simu button {
   color: black;
-  justify-content: ;
 
 }
 .ph img {
@@ -178,3 +177,6 @@ text-align: right;
   text-align: center;
   word-spacing: 10px;
  }
+#Newsletter button{
+  background: goldenrod;
+}
