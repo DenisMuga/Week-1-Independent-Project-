@@ -142,6 +142,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 #Newsletter{
   float: right;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 #Designer p{
 text-align: right;
@@ -177,4 +178,8 @@ text-align: right;
  #icons {
   text-align: center;
   word-spacing: 10px;
+ }
+ #Newsletter button{
+   background-color: goldenrod;
+
  }
