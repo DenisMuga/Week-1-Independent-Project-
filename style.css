@@ -3,6 +3,7 @@
 html, body{
   max-width: 100%;
   overflow-x: hidden;
+  font-style: 'Montserrat', sans-serif;
 }
 
 .container h2{
