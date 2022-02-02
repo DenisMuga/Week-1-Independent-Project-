@@ -23,30 +23,29 @@ html, body{
   
 }
 #caption h1{ 
-  font-size: 50px;
+  font-size: 49px;
   margin: 50px;
   margin-top: 25px;
   padding: 15vh 0;
   display: block;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   
 }
 #caption p{
   font-size: 30px;
   margin: 50px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   
 }
 
 header h2 {
   font-style: italic;
- 
 }
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-
 }
-
 li {
   float: right;
 }
@@ -93,7 +92,7 @@ li a {
   }
   .section {
     text-align: center;
-    margin-top: 33%;
+    margin-top: 35%;
   }
  
   @media screen and (max-width: 600px) {
@@ -128,6 +127,8 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   display: flex;
   width: 100%;
   justify-content: space-between;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
 }
 .MobileSection img{
   /* display: block; */
@@ -142,6 +143,8 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 #Newsletter{
   float: right;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 15px;
 }
 #Designer p{
 text-align: right;
@@ -177,6 +180,7 @@ text-align: right;
   text-align: center;
   word-spacing: 10px;
  }
-#Newsletter button{
-  background: goldenrod;
-}
+ #Newsletter button{
+   background-color: goldenrod;
+   border: 2px strong black;
+ }
